@@ -1,0 +1,35 @@
+.text-center{
+      text-align: center;
+}
+/* background: red; */
+
+.mx-auto{
+      margin: auto;
+}
+.flex{
+      display: flex;
+}
+.flex-col{
+      flex-direction: column;
+}
+.item-center{
+      align-items: center;
+      justify-content: center;
+}
+.w-high{
+      border-radius: 28px;
+      width: 120px;
+}
+.border{
+      border: 2px solid black;
+      background-color: black;
+      width: 25vw;
+      height: 75vh;
+}
+.bg-color{
+      background:yellow;
+}
+.bg{
+      background: gray;
+      color: white;
+}
